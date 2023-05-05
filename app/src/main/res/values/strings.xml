@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ejercicios</string>
+    <string name="ingresa_tus_datos">Ingresa tus datos</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="apodo">Apodo</string>
+    <string name="que_deseas_hacer">¿Qué deseas hacer?</string>
+    <string name="peliculas">Películas</string>
+    <string name="canciones">Canciones</string>
+    <string name="titulo_de_la_cancion">Titulo de la canción</string>
+    <string name="cantante">Cantante</string>
+    <string name="titulo">Título</string>
+    <string name="guardar">Guardar</string>
+    <string name="guardar_cancion">Guardar canción</string>
+    <string name="genero">Género</string>
+    <string name="pelicula">Película</string>
+    <string name="titulo_de_la_pelicula">Título de la película</string>
+    <string name="lista_de_peliculas">Lista de Películas</string>
+    <string name="guardar_pelicula">Guardar Película</string>
+    <string-array name="generoPelicula">
+        <item>Acción</item>
+        <item>Terror</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Ciencia Ficción</item>
+    </string-array>
+</resources>
